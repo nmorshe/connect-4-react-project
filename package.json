@@ -2,7 +2,7 @@
   "name": "connect-4",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://nmorshe.github.io/",
+  "homepage": "https://nmorshe.github.io",
   "type": "module",
   "scripts": {
     "predeploy" : "npm run build",
